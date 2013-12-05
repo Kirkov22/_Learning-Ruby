@@ -1,5 +1,5 @@
 require 'open-uri'
-require 'Nokogiri'
+require 'nokogiri'
 
 # URL for Craigslist Tech Support Jobs
 url = 'http://portland.craigslist.org/tch/'
