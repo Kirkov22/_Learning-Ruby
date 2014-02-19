@@ -10,4 +10,4 @@ gem
 -RubyMonk\ - Problems from the lessons on http://www.rubymonk.com  
 -RubyWarrior\ - Beating the final level of https://www.bloc.io/ruby-warrior/  
 -StarboundServerCLI\ - CLI to modify the server parameters of the
-[Starbound][http://playstarbound.com]  
+[Starbound](http://playstarbound.com) configuration file  
